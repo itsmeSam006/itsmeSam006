@@ -1,16 +1,17 @@
 # Hi there, I'm Sampreet Saha 👋
 
-Currently working on Data Science and Machine Learning,focused on extracting insights from complex datasets and building machine learning models.
+Currently working on Data Science and Machine Learning, focused on extracting insights from complex datasets and building machine learning models.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** Python, R, SQL
+* **Languages:** C/C++,Python,SQL
 * **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
-* **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
-* **Tools & Databases:** Git, GitHub, Jupyter Notebooks, PostgreSQL, MongoDB
+* **Data Visualization:** Matplotlib, Seaborn, Plotly
+* **Tools & Databases:** Git, GitHub, Jupyter Notebooks, mySQL
+* **Frameworks:** Flask, Streamlit, PyQt6
 
 ### 🔭 Currently Working On
-* Machine learning models and data analysis projects
-* Expanding my skills in deep learning and data engineering pipelines
+* End-to-end machine learning pipelines and deep learning models
+* Optimizing model inference and deployment workflows
 
 ### 📫 Connect with Me
 * **Email:** [sahasampreet0@gmail.com](mailto:sahasampreet0@gmail.com)
