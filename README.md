@@ -1,2 +1,1 @@
-## Hi there 👋
-I am Sampreet
+## Hi there 👋 i am Sampreet
