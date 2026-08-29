@@ -1,19 +1,16 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sampreet Saha 👋
 
-Software developer passionate about building useful tools and solving interesting problems.
+Currently working on Data Science and Machine Learning,focused on extracting insights from complex datasets and building machine learning models.
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** JavaScript, Python, C++
-* **Web:** HTML5, CSS3, React, Node.js
-* **Tools & Databases:** Git, GitHub, Docker, MongoDB, PostgreSQL
+* **Languages:** Python, R, SQL
+* **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
+* **Data Visualization:** Matplotlib, Seaborn, Tableau, Power BI
+* **Tools & Databases:** Git, GitHub, Jupyter Notebooks, PostgreSQL, MongoDB
 
-### 🚀 What I'm Up To
-* 🔭 Currently working on personal web applications and open-source projects
-* 🌱 Learning more about backend architecture and cloud deployment
-* 💬 Ask me about web development, coding best practices, and tech
+### 🔭 Currently Working On
+* Machine learning models and data analysis projects
+* Expanding my skills in deep learning and data engineering pipelines
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-* **Twitter/X:** [@yourusername](https://twitter.com/yourusername)
-* **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Email:** [sahasampreet0@gmail.com](mailto:sahasampreet0@gmail.com)
