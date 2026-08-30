@@ -1,4 +1,4 @@
-# Hi there, I'm Sampreet Saha 👋
+# Hi there, I'm Sampreet 👋
 
 Currently working on Data Science and Machine Learning, focused on extracting insights from complex datasets and building machine learning models.
 
